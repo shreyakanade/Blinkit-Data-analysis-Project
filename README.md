@@ -132,3 +132,29 @@ Blinkit-Sales-Analysis/
 │   └── charts and visualizations
 │── README.md
 └── requirements.txt
+
+How to Run the Project
+1️⃣ Clone the repository
+git clone https://github.com/your-username/Blinkit-Sales-Analysis.git
+cd Blinkit-Sales-Analysis
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Run Jupyter Notebook
+jupyter notebook
+
+4️⃣ Open the project notebook
+blinkit_sales_analysis.ipynb
+
+🎯 Conclusion
+
+This project provides deep insights into Blinkit's sales behavior using data analysis and visualization techniques. It can be used for:
+
+Business decision-making
+
+Portfolio/resume showcase
+
+Interview demonstrations
+
+Understanding real-world retail analytics
